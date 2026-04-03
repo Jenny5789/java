@@ -7,6 +7,6 @@
 /java/TIL
 
 
-  ├── 2026-03-31 반복문(for, while,do~while, continue, break)
-  │    
-  └── README.md
+| 날짜 | 주제 | 링크 |
+|:---:|:---|:---:|
+| 2026-03-31 | 반복문(for, while,do~while, continue, break)  | [바로가기](./2026_03_31_java.ipynb) |
