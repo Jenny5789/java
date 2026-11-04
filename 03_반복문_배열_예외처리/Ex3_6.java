@@ -19,4 +19,4 @@ public class Ex3_6 {
 		scanner.close();
 		// scanner 닫기
 	}
-}get
+}
