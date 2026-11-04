@@ -1,9 +1,0 @@
-
-HelloJavaWorld
-hellojavaworld
-HELLOJAVAWORLD
-true
-HELLOJAVAWORLD!!!
-HELLOJAVAWORLD!!!
-LLOJAVAWORLD!!!
-4
