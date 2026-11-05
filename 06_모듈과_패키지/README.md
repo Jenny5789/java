@@ -5,15 +5,12 @@
 `String` 클래스의 메소드(`trim`, `replace`, `concat` …)를 직접 구현한 `MyString` 클래스.
 처음 초안부터 완성본까지 버전별로 남겨 두었습니다.
 
-## 파일
-
-| 파일 | 단계 | 내용 |
-|:---|:---:|:---|
-| [MyStringEx_v1](./MyStringEx_v1.java) | 초안 | 클래스 뼈대와 메소드 이름만 작성 |
-| [MyStringEx_v2](./MyStringEx_v2.java) | 구현 중 | `concat`, `trim`, `replace` 구현 |
-| [MyStringEx_v3](./MyStringEx_v3.java) | 구현 중 | `split`, `toLowerCase`, `toUpperCase` 자리 추가 (미완성) |
-| [MyString](./MyString.java) | 완성본 | `length`, `trim`, `toLowerCase`, `toUpperCase`, `contains`, `concat`, `replace`, `substring`, `compareTo` |
-| [StringExample](./StringExample.java) | 실행 | 같은 패키지(`ch6`)의 `MyString` 을 import 없이 사용 |
+## MyString 직접 구현
+1. [초안: 클래스 뼈대와 메소드 이름만 작성](./MyStringEx_v1.java)
+2. [구현 중: `concat`, `trim`, `replace` 구현](./MyStringEx_v2.java)
+3. [구현 중: `split`, `toLowerCase`, `toUpperCase` 자리 추가 (미완성)](./MyStringEx_v3.java)
+4. [완성본: `length`, `trim`, `toLowerCase`, `toUpperCase`, `contains`, `concat`, `replace`, `substring`, `compareTo`](./MyString.java)
+5. [실행: 같은 패키지(`ch6`)의 `MyString` 을 import 없이 사용](./StringExample.java)
 
 ## 핵심 코드
 
